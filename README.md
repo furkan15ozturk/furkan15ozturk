@@ -1,3 +1,5 @@
+![alt text](https://www.9series.com/img/services/machine-learning/Machine%20Learning%20services%20in%20india.jpg?raw=true)
+
 <h1 align="center">Hi 👋, I'm Furkan Öztürk</h1>
 <h3 align="center">A Computer Engineer who loves machine learning and artifical intelligence</h3>
 
