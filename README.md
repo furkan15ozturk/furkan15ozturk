@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **furkan15ozturk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kClypuQJwVGeJxJFWwJ5tScr2yr0NVlk/view?usp=sharing](https://drive.google.com/file/d/1kClypuQJwVGeJxJFWwJ5tScr2yr0NVlk/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/knyL1](https://shorturl.at/knyL1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
