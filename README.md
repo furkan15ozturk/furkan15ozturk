@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Clean Code and Back End Development**
 
+- 🤖 Currently working on **Rotten - Fresh Fruit Detection**
+
 - 🎓What I hope to learn is **Testing**
 
 - 📫 How to reach me **furkan15ozturk@gmail.com**
