@@ -1,49 +1,84 @@
-![alt text](https://www.9series.com/img/services/machine-learning/Machine%20Learning%20services%20in%20india.jpg?raw=true)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Furkan Öztürk</h1>
-<h3 align="center">A Computer Engineer who loves machine learning and artifical intelligence</h3>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║              FURKAN ÖZTÜRK                                    ║
+║              M.Sc. Computer Engineering · Hacettepe Univ.    ║
+║              Vision Transformers · Sign Language Translation  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning **Clean Code and Back End Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-ozturk15/)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:furkan15ozturk@gmail.com)
+[![Ayraç](https://img.shields.io/badge/Ayraç_App-0A0A0A?style=flat-square&logo=bookstack&logoColor=white)](https://ayrac.restinblocks.men)
 
-- 🤖 Currently working on **Rotten - Fresh Fruit Detection**
+</div>
 
-- 🎓What I hope to learn is **Testing**
+---
 
-- 📫 How to reach me **furkan15ozturk@gmail.com**
+## Research
 
-- 📄 Know about my experiences [https://shorturl.at/knyL1](https://shorturl.at/knyL1)
+**ATA-ViT** — Attention Temperature Adaptation for Vision Transformers `2025–present`  
+Learnable per-head temperature parameters in softmax attention, optimized via entropy minimization at test time. No labels, no full fine-tuning. Differentiated from Zou et al. (NeurIPS 2024) through architectural scope and optimization objective.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furkan-ozturk15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-ozturk15" height="30" width="40" /></a>
-<a href="https://discord.gg/totames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="totames" height="30" width="40" /></a>
-</p>
+**Gloss-Free Sign Language Translation** — `2026–present`  
+End-to-end continuous SLT without intermediate gloss supervision. Transformer-based sequence modeling directly from skeletal and visual representations. Primary M.Sc. thesis direction under Prof. Hacer Yalim Keles.
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">Languages:</p>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  
-<p align="left">Back-End Services:</p>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  
-<p align="left">Front-End Services:</p>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  
-<p align="left">Database Management Services:</p>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  
-<p align="left">Libraries:</p>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  
-<p align="left">Tools:</p>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+## Stack
+
+**Research & ML**
+```
+PyTorch · HuggingFace Transformers · TensorFlow/Keras
+YOLO · Detectron2 · U-Net · Scikit-learn · OpenCV
+```
+
+**Data & Infrastructure**
+```
+Polars · Pandas · ClickHouse · PostgreSQL
+Docker · Linux (Ubuntu) · CUDA/NVIDIA · AWS (S3, EC2)
+```
+
+**Web & Systems**
+```
+Vue 3 · Flask · Django · WebRTC · WebSocket · SSE
+NetworkX · Leaflet · Vue Flow · Portainer
+```
+
+**Languages**
+```
+Python · JavaScript · Java · C# · MATLAB · SQL
+```
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Ayraç](https://ayrac.restinblocks.men)** | Book tracking & reading bingo app | Vue 3, Flask |
+| **[LLM-Blender](https://github.com/furkan15ozturk/LLM-Blender)** | Fine-tuned Llama 3.2-3B for Blender Python API code generation | PyTorch, HuggingFace |
+| **[Hopfield Anomaly Detection](https://github.com/furkan15ozturk/Anomaly-Detection-Hopfield)** | Image anomaly detection via Modern Hopfield Networks | MATLAB |
+| **[Istanbul House Prices](https://github.com/furkan15ozturk/Local-House-Price-Prediction-Flask-Application)** | Neural net regression + Selenium scraper + Flask deployment | Python, Flask |
+| **[Turkish NLP](https://github.com/furkan15ozturk/BasicTextProcessing-LanguageModels)** | Tokenization & n-gram LMs with add-k smoothing for agglutinative Turkish | Python |
+| **Multi-Agent Dev System** | Autonomous software company simulation (Architect → Developer → Reviewer) built with Claude Code | Python |
+
+---
+
+## Experience
+
+```
+TRK Technology         Software Engineer          Feb 2025 – present
+Inovako                Intern (Team Lead)         Nov 2024 – Feb 2025
+Visutate Inc.          Data Science Intern        Mar 2023 – Jun 2023
+Marsala Software       3D Modeller                Jun 2022 – Oct 2022
+```
+
+---
+
+<div align="center">
+<sub>Ankara, Turkey · Open to research collaborations</sub>
+</div>
